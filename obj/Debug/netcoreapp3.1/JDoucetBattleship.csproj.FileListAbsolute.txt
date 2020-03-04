@@ -1,0 +1,11 @@
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\JDoucetBattleship\bin\Debug\netcoreapp3.1\JDoucetBattleship.exe
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\JDoucetBattleship\bin\Debug\netcoreapp3.1\JDoucetBattleship.deps.json
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\JDoucetBattleship\bin\Debug\netcoreapp3.1\JDoucetBattleship.runtimeconfig.json
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\JDoucetBattleship\bin\Debug\netcoreapp3.1\JDoucetBattleship.runtimeconfig.dev.json
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\JDoucetBattleship\bin\Debug\netcoreapp3.1\JDoucetBattleship.dll
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\JDoucetBattleship\bin\Debug\netcoreapp3.1\JDoucetBattleship.pdb
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\JDoucetBattleship\obj\Debug\netcoreapp3.1\JDoucetBattleship.csprojAssemblyReference.cache
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\JDoucetBattleship\obj\Debug\netcoreapp3.1\JDoucetBattleship.AssemblyInfoInputs.cache
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\JDoucetBattleship\obj\Debug\netcoreapp3.1\JDoucetBattleship.AssemblyInfo.cs
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\JDoucetBattleship\obj\Debug\netcoreapp3.1\JDoucetBattleship.dll
+E:\College\UCCS\CS 3020 - C Sharp and .NET\Projects\JDoucetBattleship\obj\Debug\netcoreapp3.1\JDoucetBattleship.pdb
